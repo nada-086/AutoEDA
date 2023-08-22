@@ -1,1 +1,8 @@
 # AutoEDA
+This Project revolves around the creation of an Automated Exploratory Data Analysis (EDA) tool, which leverages Python to preprocess and depict data based on column characteristics. The primary objective of this tool is to streamline the EDA process by automating preprocessing procedures and furnishing an all-encompassing visualization dashboard for individual column types.
+
+The tool is engineered to accommodate data in diverse formats, encompassing CSV, Excel, and SQL databases. It executes data preprocessing by recognizing column data types and executing pertinent preprocessing operations. These operations encompass addressing missing values, encoding categorical attributes, normalizing numerical attributes, among other actions. The tool further offers possibilities for feature selection and reducing dimensionality, thereby enhancing the analysis of extensive datasets.
+
+Following the completion of preprocessing, the tool generates an exhaustive visualization dashboard for each column category. This dashboard encompasses various visualizations such as histograms, box plots, and scatter plots. Python's libraries, namely Matplotlib, Seaborn, and Plotly, are harnessed to craft interactive data visualizations that users can explore and personalize according to their preferences.
+
+The undertaking necessitates the creation of a user-friendly command-line interface for the tool, the execution of data preprocessing protocols, the development of visualization dashboards tailored to each column type, and rigorous testing and debugging to validate its functionality. This project amalgamates aspects of software design, data manipulation, visualization development, and quality assurance to yield a comprehensive and efficient tool.
